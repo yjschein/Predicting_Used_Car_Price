@@ -1,4 +1,4 @@
-# Predicting_Used_Car_Price
+# Predicting the Price of a Used Car
 
 Purpose of the project: 
 
