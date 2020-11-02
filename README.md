@@ -13,7 +13,7 @@ In this project, I created a model to predict the price of used cars based on a 
 ![yearPrice](images/Year_vs_Price.png)
 
 ## Model: 
-In my model I included all of these features and many more to predict the price of a car. For example, I included the condition of a car, the manufacturer, the state that the used car is being sold in and many more features to help my model.
+In my model, I included all of these features and many more to predict the price of a car. For example, I included the condition of a car, the manufacturer, the state that the used car is being sold in and many more features to help my model.
 
 ## Conclusion: 
 In conclusion, my model was about $7000 off from predicting the true price of a car.
