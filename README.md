@@ -1,8 +1,11 @@
 # Predicting the Price of a Used Car
 
-Purpose of the project: 
+## Purpose of the project: 
 
 In this project, I created a model to predict the price of used cars based on a used cars dataset from Kaggle. I created graphs and to help visualize which features affect the sales of cars and used these features to help build my model. After the data was uploaded, I cleaned and organized the data so that it is useful for other people to analyze and draw their own conclusions. Below I will share a few of my graphs and then explain my final model. 
+
+## Data Source
+The dataset that I used for this project was webscraped from craigslist and taken by me from Kaggle. 
 
 ## Graphs:
 1. I graphed the fuel type against the average price for each fuel type to see which type of used car costs the most. I found that electric cars cost on average $10,000 more than gas cars.
