@@ -19,4 +19,4 @@ The dataset that I used for this project was webscraped from craigslist and take
 In my model, I included all of these features and many more to predict the price of a car. For example, I included the condition of a car, the manufacturer, the state that the used car is being sold in and many more features to help my model.
 
 ## Conclusion: 
-In conclusion, my model was about $7000 off from predicting the true price of a car. Further steps that I would take to improve my model would be to break up the cars into more categories such as antique and not antique. 
+In conclusion, my model was about $7000 off from predicting the true price of a car. Further steps that I would take to improve my model would be to break up the cars into more categories such as antique and not antique. Furthermore, I would break up the feature, states, into fewer categories based off of yearly earnings. 
