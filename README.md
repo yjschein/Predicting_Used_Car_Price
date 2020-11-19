@@ -2,7 +2,7 @@
 
 ## Purpose of the project: 
 
-In this project, I created a model to predict the price of used cars based on a used cars dataset from Kaggle. I created graphs using Pandas and Seaborn to help visualize which features affect the sales of cars and used these features to help build my model. After the data was uploaded, I cleaned and organized the data so that it is useful for other people to analyze and draw their own conclusions. Below I will share a few of my graphs and then explain my final model. 
+In this project, I created a model to predict the price of used cars based on a used cars dataset from Kaggle. I created graphs using Pandas and Seaborn to help visualize the data. which features affect the sales of cars and used these features to help build my model. After the data was uploaded, I cleaned and organized the data so that it is useful for other people to analyze and draw their own conclusions. Below I will share a few of my graphs and then explain my final model. 
 
 ## Data Source
 The dataset that I used for this project was webscraped from craigslist and taken by me from Kaggle. 
