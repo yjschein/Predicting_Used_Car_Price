@@ -5,7 +5,7 @@
 In this project, I created a model to predict the price of used cars based on a used cars dataset from Kaggle. I created graphs using Pandas and Seaborn to help visualize the data. The graphs were also useful in identifying the most important features in the data set. Some of the charts emphasize the most effective features while others such as mileage and age of car while other assist in visualizing the statistical testing. The features which are seen in the graphs all helped build my model and helped visualize the results. After the data was uploaded, I cleaned and organized the data so that it is useful for other people to analyze and draw their own conclusions. Below I will share a few of my graphs and then explain my final model. 
 
 ## Data Source
-The dataset that I used for this project was webscraped from craigslist and taken by me from Kaggle. It originally had 435,849 rows, but was shrunken down in the data cleaning phase. 
+The dataset that I used for this project was webscraped from craigslist and taken by me from Kaggle. It originally had 435,849 rows, but was shrunken down in the data cleaning phase. Some of the features included the year, manufacturer, model, odometer as well as 21 other features. 
 
 ## Graphs:
 1. I graphed the fuel type against the average price for each fuel type to see which type of used car costs the most. I found that electric cars cost on average $10,000 more than gas cars. This is not surprising due to the innovation and excitement that comes along with purchasing an electric car. Furthermore, as a result of purchasing an electric car, the owner is saving thousands of dollars in gas, as well as, time because he or she no longer needs to go to the gas station to fill up his or her car. 
