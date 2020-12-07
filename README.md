@@ -7,6 +7,8 @@ In this project, I created a model to predict the price of used cars based on a 
 ## Data Source
 The dataset that I used for this project was webscraped from craigslist and taken by me from Kaggle. It originally had 435,849 rows, but was shrunken down in the data cleaning phase. Some of the features included the year, manufacturer, model, odometer as well as 21 other features. 
 
+## Data Cleaning
+
 ## Graphs:
 1. I graphed the fuel type against the average price for each fuel type to see which type of used car costs the most. I found that electric cars cost on average $10,000 more than gas cars. This is not surprising due to the innovation and excitement that comes along with purchasing an electric car. Furthermore, as a result of purchasing an electric car, the owner is saving thousands of dollars in gas, as well as, time because he or she no longer needs to go to the gas station to fill up his or her car. 
 ![fuelPrice](images/Fuel_vs_Price.png)
