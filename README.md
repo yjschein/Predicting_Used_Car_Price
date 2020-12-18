@@ -25,4 +25,4 @@ In my model, I included 15 features excluding the dummy columns. For example, I 
 The model performed well, but in the future I would like to improve it. For example, I would like to break up the states feature into fewer categories. 
 
 ## Conclusion: 
-In conclusion, my model was about $7000 off from predicting the true price of a car. There are ways to improve this model and in the future I plan on taking more steps in the feature engineering section. Further steps that I would take to improve my model would be to break up the cars into more categories such as antique and not antique. Furthermore, I would break up the feature, states, into fewer categories based off of yearly earnings. 
+In conclusion, my model was about $7000 off from predicting the true price of a car.
