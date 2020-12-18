@@ -21,5 +21,7 @@ The data cleaning phase was a lot of work due to the high number of missing and 
 ## Model: 
 In my model, I included 15 features excluding the dummy columns. For example, I included the condition of a car, manufacturer, state that the used car is being sold in and many more features to help my model. I started off with a baseline model and used RMSE as my evaluation metric due to the fact that it penalizes larger errors. Originally my model was off by an average of $9722.34 per car. Eventually, after testing out different machine learning metrics, my model was only off by a little over $7,000. 
 
+## Next Steps
+
 ## Conclusion: 
 In conclusion, my model was about $7000 off from predicting the true price of a car. There are ways to improve this model and in the future I plan on taking more steps in the feature engineering section. Further steps that I would take to improve my model would be to break up the cars into more categories such as antique and not antique. Furthermore, I would break up the feature, states, into fewer categories based off of yearly earnings. 
